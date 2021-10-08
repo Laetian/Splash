@@ -23,8 +23,6 @@ public class UpdateRequest extends StringRequest {
         parametros.put("intervencion", intervencion+"");
         parametros.put("comentarios", comentarios+"");
         parametros.put("escolta", escolta+"");
-
-
     }
 
     @Override

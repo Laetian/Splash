@@ -20,8 +20,6 @@ public class DBConnection extends StringRequest {
         parametros.put("usuario", usuario+"");
         parametros.put("clave", clave+"");
         parametros.put("level", level+"");
-
-
     }
 
     @Override
